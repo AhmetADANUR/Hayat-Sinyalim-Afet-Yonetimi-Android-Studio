@@ -36,13 +36,13 @@ Aşağıda proje görselleri yer almaktadır:
 
 | Görsel 13 | Görsel 14 | Görsel 15 |
 |-----------|-----------|-----------|
-| ![Görsel 13](images/Resim14.png) | ![Görsel 14](images/Resim15.png) | ![Görsel 15](images/Resim16.png) |
+| ![Görsel 13](images/Resim14.png) | ![Görsel 14](images/Resim15.png) | ![Görsel 15](images/Resim16.jpeg) |
 
 | Görsel 16 | Görsel 17 | Görsel 18 |
 |-----------|-----------|-----------|
-| ![Görsel 16](images/Resim17.png) | ![Görsel 17](images/Resim18.png) | ![Görsel 18](images/Resim19.png) |
+| ![Görsel 16](images/Resim17.jpeg) | ![Görsel 17](images/Resim18.jpeg) | ![Görsel 18](images/Resim19.jpeg) |
 
 | Görsel 19 | Görsel 20 |
 |-----------|-----------|
-| ![Görsel 19](images/Resim20.png) | ![Görsel 20](images/Resim21.png) |
+| ![Görsel 19](images/Resim20.jpeg) | ![Görsel 20](images/Resim21.jpeg) |
 
