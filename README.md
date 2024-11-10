@@ -1,22 +1,28 @@
 # Hayat Sinyalim
 
-"Hayat Sinyalim", özellikle başta deprem olmak üzere afet sonrası kayıpların tespiti ve kurtarılması amacıyla geliştirilen bir mobil uygulamadır. Afet yönetimi süreçlerini iyileştirmeyi ve insan hayatlarını kurtarmayı hedefler.
+![Görsel 19](images/Resim20.jpeg)
 
-## 1. Proje Amacı
+"Hayat Sinyalim", başta deprem olmak üzere doğal afetler sonrası kayıpların tespiti ve kurtarılması amacıyla geliştirilmiş yenilikçi bir mobil uygulamadır. Uygulama, afet durumlarında kritik bilgiler sağlayarak kurtarma ekiplerinin hızlı ve etkili müdahale etmesine yardımcı olur. GPS izleme sistemi ve Firebase entegrasyonu ile afetzedelerin konumları anlık olarak takip edilir.
 
-"Hayat Sinyalim", doğal afetler sonrasında kayıp kişilerin hızlı bir şekilde tespit edilmesi ve kurtarılması amacıyla tasarlanmış bir mobil uygulamadır. Projenin ana amacı, afetzedelerin yerlerinin tespit edilerek kurtarma ekiplerinin hızlı ve etkili müdahalesini sağlamaktır.
+## Proje Amacı
 
-## 2. Çözüm Ürettiği Sorun / İhtiyaç
+Afet yönetimi süreçlerini iyileştirmeyi ve insan hayatını kurtarmayı amaçlayan "Hayat Sinyalim", kayıp kişilerin yerlerinin tespit edilmesi için mobil cihazlardan alınan GPS verilerini kullanır. Bu uygulama, özellikle deprem, sel ve yangın gibi büyük doğal afetlerde etkili bir çözüm sunmayı hedeflemektedir.
 
-Doğal afetler, can ve mal kaybına yol açan önemli olaylardır. "Hayat Sinyalim", mobil teknoloji ve GPS izleme sistemlerini kullanarak, afetzedelerin anlık konumlarını takip eden ve kurtarma ekiplerine bu bilgileri sağlayan bir uygulamadır.
+## Çözüm Ürettiği Sorun / İhtiyaç
 
-## 3. Yöntem ve Hedef Kitle
+Doğal afetler, büyük can ve mal kayıplarına yol açar. Afet sonrası en kritik ihtiyaçlardan biri, kaybolan kişilerin hızlıca bulunabilmesidir. Geleneksel yöntemler zaman alıcı olabilir ve her zaman etkili değildir. "Hayat Sinyalim", GPS izleme sistemi sayesinde kullanıcıların anlık konumlarını takip ederek kurtarma ekiplerine zamanında ve doğru bilgiler sunar. Bu, müdahale sürecini hızlandırarak hayat kurtarmada önemli bir fark yaratır.
 
-Uygulama, Android cihazlarda çalışmak üzere geliştirilmiştir ve Firebase Realtime Database kullanarak verilerin güvenli bir şekilde saklanmasını sağlar. Hedef kitle, afet riski yüksek bölgelerde yaşayan bireylerdir.
+## Yöntem ve Hedef Kitle
 
-## 4. Proje Görselleri
+Uygulama, Android cihazlar için geliştirilmiştir ve Firebase Realtime Database kullanarak verilerin güvenli bir şekilde depolanmasını sağlar. Kullanıcıların GPS konumları periyodik olarak kaydedilir ve afet durumunda acil yardım ekipleri bu verilerle yönlendirilir. Hedef kitle, afet riski yüksek bölgelerde yaşayan bireyler ve afet yönetimi ekipleridir.
 
-Aşağıda proje görselleri yer almaktadır:
+## Yenilik ve Ticarileşme Potansiyeli
+
+"Hayat Sinyalim", mobil teknoloji ve GPS izleme sistemlerini entegre ederek yenilikçi bir çözüm sunar. Uygulama, afet yönetimi pazarında önemli bir boşluğu doldurarak, hızlı müdahale gerektiren durumlarda hayat kurtarıcı bir rol oynar. Uygulamanın geniş kullanıcı kitlesine hitap etmesi ve uluslararası iş birlikleriyle büyüme potansiyeli yüksektir.
+
+## Proje Görselleri
+
+Aşağıda proje ile ilgili görseller bulunmaktadır:
 
 | Görsel 1 | Görsel 2 | Görsel 3 |
 |----------|----------|----------|
