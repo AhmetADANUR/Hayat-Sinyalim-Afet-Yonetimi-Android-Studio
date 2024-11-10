@@ -1,6 +1,6 @@
 # Hayat Sinyalim
 
-"Hayat Sinyalim", özellikle başta deprem olmak üzere afet sonrası kayıpların tespiti ve kurtarılması amacıyla geliştirilen bir mobil uygulamadır. Doğal afetler sırasında ve sonrasında kritik öneme sahip bilgileri sağlayarak kurtarma ekiplerinin hızlı ve etkili müdahalesini destekler. Uygulama, afetzedelerin konumlarını belirleyerek acil durum sinyallerini ileterek, afet bölgesindeki durumu anlamaya ve yardım çalışmalarını doğru yönlendirmeye yardımcı olur. Gençlerin teknolojiyi kullanarak toplumsal sorunlara çözüm bulma çabasının bir ürünü olan "Hayat Sinyalim" uygulaması, afet yönetimi süreçlerini iyileştirme ve insan hayatını kurtarma konusunda öne çıkmayı hedeflemektedir.
+"Hayat Sinyalim", özellikle başta deprem olmak üzere afet sonrası kayıpların tespiti ve kurtarılması amacıyla geliştirilen bir mobil uygulamadır. Afet yönetimi süreçlerini iyileştirmeyi ve insan hayatlarını kurtarmayı hedefler.
 
 ## 1. Proje Amacı
 
@@ -8,53 +8,41 @@
 
 ## 2. Çözüm Ürettiği Sorun / İhtiyaç
 
-Doğal afetler, can ve mal kaybına yol açan önemli olaylardır. En kritik sorunlardan biri, afet sonrası kayıp kişilerin hızlıca tespit edilmesidir. "Hayat Sinyalim", mobil teknoloji ve GPS izleme sistemlerini kullanarak, afetzedelerin anlık konumlarını takip eden ve kurtarma ekiplerine bu bilgileri sağlayan bir uygulamadır.
+Doğal afetler, can ve mal kaybına yol açan önemli olaylardır. "Hayat Sinyalim", mobil teknoloji ve GPS izleme sistemlerini kullanarak, afetzedelerin anlık konumlarını takip eden ve kurtarma ekiplerine bu bilgileri sağlayan bir uygulamadır.
 
-## 3. Yerlilik ve Özgünlük Tarafı
+## 3. Yöntem ve Hedef Kitle
 
-"Hayat Sinyalim" projesi, mobil teknoloji ve GPS izleme sistemlerini kullanarak, doğal afetlerde kayıp kişilerin hızlı ve doğru bir şekilde tespit edilmesini sağlayan yenilikçi bir çözüm sunmaktadır. Bu özellik, afet anında kurtarma ekiplerine etkili müdahale için gerekli olan hızlı konum bilgilerini sağlar ve mevcut çözümlere kıyasla farklılık gösterir.
+Uygulama, Android cihazlarda çalışmak üzere geliştirilmiştir ve Firebase Realtime Database kullanarak verilerin güvenli bir şekilde saklanmasını sağlar. Hedef kitle, afet riski yüksek bölgelerde yaşayan bireylerdir.
 
-## 4. Yöntem ve Hedef Kitle
+## 4. Proje Görselleri
 
-"Hayat Sinyalim", doğal afetler sırasında ve sonrasında kullanıcıların GPS konumlarını periyodik olarak kaydeden ve bu verileri kurtarma operasyonlarında kullanmak üzere analiz eden bir mobil uygulama geliştirme yaklaşımını benimsemektedir. Uygulamanın hedef kitlesi, afet riski yüksek bölgelerde yaşayan bireylerdir.
+Aşağıda proje görselleri yer almaktadır:
 
-## 5. Yenilik ve Ticarileşme Potansiyeli
+| Görsel 1 | Görsel 2 | Görsel 3 |
+|----------|----------|----------|
+| ![Görsel 1](images/Resim2.png) | ![Görsel 2](images/Resim3.png) | ![Görsel 3](images/Resim4.png) |
 
-"Hayat Sinyalim", afet yönetimi için mobil teknoloji ve GPS izleme sistemlerini entegre ederek, afetzedelerin sürekli konum takibini sağlayan yenilikçi bir uygulamadır. Bu teknoloji, afet anında kurtarma ekiplerine hızlı ve etkili müdahale imkânı sunar.
+| Görsel 4 | Görsel 5 | Görsel 6 |
+|----------|----------|----------|
+| ![Görsel 4](images/Resim5.png) | ![Görsel 5](images/Resim6.png) | ![Görsel 6](images/Resim7.png) |
 
-## 6. Firebase Entegrasyonu
+| Görsel 7 | Görsel 8 | Görsel 9 |
+|----------|----------|----------|
+| ![Görsel 7](images/Resim8.png) | ![Görsel 8](images/Resim9.png) | ![Görsel 9](images/Resim10.png) |
 
-Uygulama, Firebase Realtime Database kullanılarak verilerin güvenli bir şekilde saklanmasını sağlar. Kullanıcıların konum verileri, anlık olarak Firebase'e kaydedilir ve gerektiğinde kurtarma ekipleri tarafından erişilebilir hale gelir.
+| Görsel 10 | Görsel 11 | Görsel 12 |
+|-----------|-----------|-----------|
+| ![Görsel 10](images/Resim11.png) | ![Görsel 11](images/Resim12.png) | ![Görsel 12](images/Resim13.png) |
 
-## 7. Kullanım Talimatları
+| Görsel 13 | Görsel 14 | Görsel 15 |
+|-----------|-----------|-----------|
+| ![Görsel 13](images/Resim14.png) | ![Görsel 14](images/Resim15.png) | ![Görsel 15](images/Resim16.png) |
 
-1. **Android Studio** kullanarak projeyi açın.
-2. Firebase entegrasyonu için gerekli yapılandırmaları yapın.
-3. Uygulamayı test cihazına yükleyin ve konum izleme özelliklerini test edin.
+| Görsel 16 | Görsel 17 | Görsel 18 |
+|-----------|-----------|-----------|
+| ![Görsel 16](images/Resim17.png) | ![Görsel 17](images/Resim18.png) | ![Görsel 18](images/Resim19.png) |
 
-## 8. Proje Dosya Yapısı
+| Görsel 19 | Görsel 20 |
+|-----------|-----------|
+| ![Görsel 19](images/Resim20.png) | ![Görsel 20](images/Resim21.png) |
 
-```plaintext
-.
-├── README.md
-├── images/
-│   ├── Resim2.png
-│   ├── Resim3.png
-│   ├── Resim4.png
-│   ├── Resim5.png
-│   ├── Resim6.png
-│   ├── Resim7.png
-│   ├── Resim8.png
-│   ├── Resim9.png
-│   ├── Resim10.png
-│   ├── Resim11.png
-│   ├── Resim12.png
-│   ├── Resim13.png
-│   ├── Resim14.png
-│   ├── Resim15.png
-│   ├── Resim16.png
-│   ├── Resim17.png
-│   ├── Resim18.png
-│   ├── Resim19.png
-│   ├── Resim20.png
-│   └── Resim21.png
